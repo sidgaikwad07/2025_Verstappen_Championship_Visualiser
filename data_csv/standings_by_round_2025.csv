@@ -1,0 +1,499 @@
+round,race_name,country,driver,constructor,points,position,wins
+1,Australian Grand Prix,Australia,Lando Norris,McLaren,25.0,1,1
+1,Australian Grand Prix,Australia,Max Verstappen,Red Bull,18.0,2,0
+1,Australian Grand Prix,Australia,George Russell,Mercedes,15.0,3,0
+1,Australian Grand Prix,Australia,Andrea Kimi Antonelli,Mercedes,12.0,4,0
+1,Australian Grand Prix,Australia,Alexander Albon,Williams,10.0,5,0
+1,Australian Grand Prix,Australia,Lance Stroll,Aston Martin,8.0,6,0
+1,Australian Grand Prix,Australia,Nico Hülkenberg,Sauber,6.0,7,0
+1,Australian Grand Prix,Australia,Charles Leclerc,Ferrari,4.0,8,0
+1,Australian Grand Prix,Australia,Oscar Piastri,McLaren,2.0,9,0
+1,Australian Grand Prix,Australia,Lewis Hamilton,Ferrari,1.0,10,0
+1,Australian Grand Prix,Australia,Pierre Gasly,Alpine F1 Team,0.0,11,0
+1,Australian Grand Prix,Australia,Yuki Tsunoda,RB F1 Team,0.0,12,0
+1,Australian Grand Prix,Australia,Esteban Ocon,Haas F1 Team,0.0,13,0
+1,Australian Grand Prix,Australia,Oliver Bearman,Haas F1 Team,0.0,14,0
+1,Australian Grand Prix,Australia,Liam Lawson,Red Bull,0.0,0,0
+1,Australian Grand Prix,Australia,Gabriel Bortoleto,Sauber,0.0,0,0
+1,Australian Grand Prix,Australia,Fernando Alonso,Aston Martin,0.0,0,0
+1,Australian Grand Prix,Australia,Carlos Sainz,Williams,0.0,0,0
+1,Australian Grand Prix,Australia,Jack Doohan,Alpine F1 Team,0.0,0,0
+1,Australian Grand Prix,Australia,Isack Hadjar,RB F1 Team,0.0,0,0
+2,Chinese Grand Prix,China,Lando Norris,McLaren,44.0,1,1
+2,Chinese Grand Prix,China,Max Verstappen,Red Bull,36.0,2,0
+2,Chinese Grand Prix,China,George Russell,Mercedes,35.0,3,0
+2,Chinese Grand Prix,China,Oscar Piastri,McLaren,34.0,4,1
+2,Chinese Grand Prix,China,Andrea Kimi Antonelli,Mercedes,22.0,5,0
+2,Chinese Grand Prix,China,Alexander Albon,Williams,16.0,6,0
+2,Chinese Grand Prix,China,Esteban Ocon,Haas F1 Team,10.0,7,0
+2,Chinese Grand Prix,China,Lance Stroll,Aston Martin,10.0,8,0
+2,Chinese Grand Prix,China,Lewis Hamilton,Ferrari,9.0,9,0
+2,Chinese Grand Prix,China,Charles Leclerc,Ferrari,8.0,10,0
+2,Chinese Grand Prix,China,Nico Hülkenberg,Sauber,6.0,11,0
+2,Chinese Grand Prix,China,Oliver Bearman,Haas F1 Team,4.0,12,0
+2,Chinese Grand Prix,China,Yuki Tsunoda,RB F1 Team,3.0,13,0
+2,Chinese Grand Prix,China,Carlos Sainz,Williams,1.0,14,0
+2,Chinese Grand Prix,China,Pierre Gasly,Alpine F1 Team,0.0,15,0
+2,Chinese Grand Prix,China,Isack Hadjar,RB F1 Team,0.0,16,0
+2,Chinese Grand Prix,China,Liam Lawson,Red Bull,0.0,17,0
+2,Chinese Grand Prix,China,Jack Doohan,Alpine F1 Team,0.0,18,0
+2,Chinese Grand Prix,China,Gabriel Bortoleto,Sauber,0.0,19,0
+2,Chinese Grand Prix,China,Fernando Alonso,Aston Martin,0.0,0,0
+3,Japanese Grand Prix,Japan,Lando Norris,McLaren,62.0,1,1
+3,Japanese Grand Prix,Japan,Max Verstappen,Red Bull,61.0,2,1
+3,Japanese Grand Prix,Japan,Oscar Piastri,McLaren,49.0,3,1
+3,Japanese Grand Prix,Japan,George Russell,Mercedes,45.0,4,0
+3,Japanese Grand Prix,Japan,Andrea Kimi Antonelli,Mercedes,30.0,5,0
+3,Japanese Grand Prix,Japan,Charles Leclerc,Ferrari,20.0,6,0
+3,Japanese Grand Prix,Japan,Alexander Albon,Williams,18.0,7,0
+3,Japanese Grand Prix,Japan,Lewis Hamilton,Ferrari,15.0,8,0
+3,Japanese Grand Prix,Japan,Esteban Ocon,Haas F1 Team,10.0,9,0
+3,Japanese Grand Prix,Japan,Lance Stroll,Aston Martin,10.0,10,0
+3,Japanese Grand Prix,Japan,Nico Hülkenberg,Sauber,6.0,11,0
+3,Japanese Grand Prix,Japan,Oliver Bearman,Haas F1 Team,5.0,12,0
+3,Japanese Grand Prix,Japan,Isack Hadjar,RB F1 Team,4.0,13,0
+3,Japanese Grand Prix,Japan,Yuki Tsunoda,RB F1 Team,3.0,14,0
+3,Japanese Grand Prix,Japan,Carlos Sainz,Williams,1.0,15,0
+3,Japanese Grand Prix,Japan,Pierre Gasly,Alpine F1 Team,0.0,16,0
+3,Japanese Grand Prix,Japan,Fernando Alonso,Aston Martin,0.0,17,0
+3,Japanese Grand Prix,Japan,Liam Lawson,Red Bull,0.0,18,0
+3,Japanese Grand Prix,Japan,Jack Doohan,Alpine F1 Team,0.0,19,0
+3,Japanese Grand Prix,Japan,Gabriel Bortoleto,Sauber,0.0,20,0
+4,Bahrain Grand Prix,Bahrain,Lando Norris,McLaren,77.0,1,1
+4,Bahrain Grand Prix,Bahrain,Oscar Piastri,McLaren,74.0,2,2
+4,Bahrain Grand Prix,Bahrain,Max Verstappen,Red Bull,69.0,3,1
+4,Bahrain Grand Prix,Bahrain,George Russell,Mercedes,63.0,4,0
+4,Bahrain Grand Prix,Bahrain,Charles Leclerc,Ferrari,32.0,5,0
+4,Bahrain Grand Prix,Bahrain,Andrea Kimi Antonelli,Mercedes,30.0,6,0
+4,Bahrain Grand Prix,Bahrain,Lewis Hamilton,Ferrari,25.0,7,0
+4,Bahrain Grand Prix,Bahrain,Alexander Albon,Williams,18.0,8,0
+4,Bahrain Grand Prix,Bahrain,Esteban Ocon,Haas F1 Team,14.0,9,0
+4,Bahrain Grand Prix,Bahrain,Lance Stroll,Aston Martin,10.0,10,0
+4,Bahrain Grand Prix,Bahrain,Pierre Gasly,Alpine F1 Team,6.0,11,0
+4,Bahrain Grand Prix,Bahrain,Nico Hülkenberg,Sauber,6.0,12,0
+4,Bahrain Grand Prix,Bahrain,Oliver Bearman,Haas F1 Team,6.0,13,0
+4,Bahrain Grand Prix,Bahrain,Yuki Tsunoda,RB F1 Team,5.0,14,0
+4,Bahrain Grand Prix,Bahrain,Isack Hadjar,RB F1 Team,4.0,15,0
+4,Bahrain Grand Prix,Bahrain,Carlos Sainz,Williams,1.0,16,0
+4,Bahrain Grand Prix,Bahrain,Fernando Alonso,Aston Martin,0.0,17,0
+4,Bahrain Grand Prix,Bahrain,Liam Lawson,Red Bull,0.0,18,0
+4,Bahrain Grand Prix,Bahrain,Jack Doohan,Alpine F1 Team,0.0,19,0
+4,Bahrain Grand Prix,Bahrain,Gabriel Bortoleto,Sauber,0.0,20,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Oscar Piastri,McLaren,99.0,1,3
+5,Saudi Arabian Grand Prix,Saudi Arabia,Lando Norris,McLaren,89.0,2,1
+5,Saudi Arabian Grand Prix,Saudi Arabia,Max Verstappen,Red Bull,87.0,3,1
+5,Saudi Arabian Grand Prix,Saudi Arabia,George Russell,Mercedes,73.0,4,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Charles Leclerc,Ferrari,47.0,5,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Andrea Kimi Antonelli,Mercedes,38.0,6,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Lewis Hamilton,Ferrari,31.0,7,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Alexander Albon,Williams,20.0,8,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Esteban Ocon,Haas F1 Team,14.0,9,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Lance Stroll,Aston Martin,10.0,10,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Pierre Gasly,Alpine F1 Team,6.0,11,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Nico Hülkenberg,Sauber,6.0,12,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Oliver Bearman,Haas F1 Team,6.0,13,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Isack Hadjar,RB F1 Team,5.0,14,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Carlos Sainz,Williams,5.0,15,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Yuki Tsunoda,RB F1 Team,5.0,16,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Fernando Alonso,Aston Martin,0.0,17,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Liam Lawson,Red Bull,0.0,18,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Jack Doohan,Alpine F1 Team,0.0,19,0
+5,Saudi Arabian Grand Prix,Saudi Arabia,Gabriel Bortoleto,Sauber,0.0,20,0
+6,Miami Grand Prix,USA,Oscar Piastri,McLaren,131.0,1,4
+6,Miami Grand Prix,USA,Lando Norris,McLaren,115.0,2,1
+6,Miami Grand Prix,USA,Max Verstappen,Red Bull,99.0,3,1
+6,Miami Grand Prix,USA,George Russell,Mercedes,93.0,4,0
+6,Miami Grand Prix,USA,Charles Leclerc,Ferrari,53.0,5,0
+6,Miami Grand Prix,USA,Andrea Kimi Antonelli,Mercedes,48.0,6,0
+6,Miami Grand Prix,USA,Lewis Hamilton,Ferrari,41.0,7,0
+6,Miami Grand Prix,USA,Alexander Albon,Williams,30.0,8,0
+6,Miami Grand Prix,USA,Esteban Ocon,Haas F1 Team,14.0,9,0
+6,Miami Grand Prix,USA,Lance Stroll,Aston Martin,14.0,10,0
+6,Miami Grand Prix,USA,Yuki Tsunoda,RB F1 Team,9.0,11,0
+6,Miami Grand Prix,USA,Pierre Gasly,Alpine F1 Team,7.0,12,0
+6,Miami Grand Prix,USA,Carlos Sainz,Williams,7.0,13,0
+6,Miami Grand Prix,USA,Nico Hülkenberg,Sauber,6.0,14,0
+6,Miami Grand Prix,USA,Oliver Bearman,Haas F1 Team,6.0,15,0
+6,Miami Grand Prix,USA,Isack Hadjar,RB F1 Team,5.0,16,0
+6,Miami Grand Prix,USA,Fernando Alonso,Aston Martin,0.0,17,0
+6,Miami Grand Prix,USA,Liam Lawson,Red Bull,0.0,18,0
+6,Miami Grand Prix,USA,Jack Doohan,Alpine F1 Team,0.0,19,0
+6,Miami Grand Prix,USA,Gabriel Bortoleto,Sauber,0.0,20,0
+7,Emilia Romagna Grand Prix,Italy,Oscar Piastri,McLaren,146.0,1,4
+7,Emilia Romagna Grand Prix,Italy,Lando Norris,McLaren,133.0,2,1
+7,Emilia Romagna Grand Prix,Italy,Max Verstappen,Red Bull,124.0,3,2
+7,Emilia Romagna Grand Prix,Italy,George Russell,Mercedes,99.0,4,0
+7,Emilia Romagna Grand Prix,Italy,Charles Leclerc,Ferrari,61.0,5,0
+7,Emilia Romagna Grand Prix,Italy,Lewis Hamilton,Ferrari,53.0,6,0
+7,Emilia Romagna Grand Prix,Italy,Andrea Kimi Antonelli,Mercedes,48.0,7,0
+7,Emilia Romagna Grand Prix,Italy,Alexander Albon,Williams,40.0,8,0
+7,Emilia Romagna Grand Prix,Italy,Esteban Ocon,Haas F1 Team,14.0,9,0
+7,Emilia Romagna Grand Prix,Italy,Lance Stroll,Aston Martin,14.0,10,0
+7,Emilia Romagna Grand Prix,Italy,Carlos Sainz,Williams,11.0,11,0
+7,Emilia Romagna Grand Prix,Italy,Yuki Tsunoda,RB F1 Team,10.0,12,0
+7,Emilia Romagna Grand Prix,Italy,Pierre Gasly,Alpine F1 Team,7.0,13,0
+7,Emilia Romagna Grand Prix,Italy,Isack Hadjar,RB F1 Team,7.0,14,0
+7,Emilia Romagna Grand Prix,Italy,Nico Hülkenberg,Sauber,6.0,15,0
+7,Emilia Romagna Grand Prix,Italy,Oliver Bearman,Haas F1 Team,6.0,16,0
+7,Emilia Romagna Grand Prix,Italy,Fernando Alonso,Aston Martin,0.0,17,0
+7,Emilia Romagna Grand Prix,Italy,Liam Lawson,Red Bull,0.0,18,0
+7,Emilia Romagna Grand Prix,Italy,Jack Doohan,Alpine F1 Team,0.0,19,0
+7,Emilia Romagna Grand Prix,Italy,Gabriel Bortoleto,Sauber,0.0,20,0
+7,Emilia Romagna Grand Prix,Italy,Franco Colapinto,Alpine F1 Team,0.0,21,0
+8,Monaco Grand Prix,Monaco,Oscar Piastri,McLaren,161.0,1,4
+8,Monaco Grand Prix,Monaco,Lando Norris,McLaren,158.0,2,2
+8,Monaco Grand Prix,Monaco,Max Verstappen,Red Bull,136.0,3,2
+8,Monaco Grand Prix,Monaco,George Russell,Mercedes,99.0,4,0
+8,Monaco Grand Prix,Monaco,Charles Leclerc,Ferrari,79.0,5,0
+8,Monaco Grand Prix,Monaco,Lewis Hamilton,Ferrari,63.0,6,0
+8,Monaco Grand Prix,Monaco,Andrea Kimi Antonelli,Mercedes,48.0,7,0
+8,Monaco Grand Prix,Monaco,Alexander Albon,Williams,42.0,8,0
+8,Monaco Grand Prix,Monaco,Esteban Ocon,Haas F1 Team,20.0,9,0
+8,Monaco Grand Prix,Monaco,Isack Hadjar,RB F1 Team,15.0,10,0
+8,Monaco Grand Prix,Monaco,Lance Stroll,Aston Martin,14.0,11,0
+8,Monaco Grand Prix,Monaco,Carlos Sainz,Williams,12.0,12,0
+8,Monaco Grand Prix,Monaco,Yuki Tsunoda,RB F1 Team,10.0,13,0
+8,Monaco Grand Prix,Monaco,Pierre Gasly,Alpine F1 Team,7.0,14,0
+8,Monaco Grand Prix,Monaco,Nico Hülkenberg,Sauber,6.0,15,0
+8,Monaco Grand Prix,Monaco,Oliver Bearman,Haas F1 Team,6.0,16,0
+8,Monaco Grand Prix,Monaco,Liam Lawson,Red Bull,4.0,17,0
+8,Monaco Grand Prix,Monaco,Fernando Alonso,Aston Martin,0.0,18,0
+8,Monaco Grand Prix,Monaco,Jack Doohan,Alpine F1 Team,0.0,19,0
+8,Monaco Grand Prix,Monaco,Franco Colapinto,Alpine F1 Team,0.0,20,0
+8,Monaco Grand Prix,Monaco,Gabriel Bortoleto,Sauber,0.0,21,0
+9,Spanish Grand Prix,Spain,Oscar Piastri,McLaren,186.0,1,5
+9,Spanish Grand Prix,Spain,Lando Norris,McLaren,176.0,2,2
+9,Spanish Grand Prix,Spain,Max Verstappen,Red Bull,137.0,3,2
+9,Spanish Grand Prix,Spain,George Russell,Mercedes,111.0,4,0
+9,Spanish Grand Prix,Spain,Charles Leclerc,Ferrari,94.0,5,0
+9,Spanish Grand Prix,Spain,Lewis Hamilton,Ferrari,71.0,6,0
+9,Spanish Grand Prix,Spain,Andrea Kimi Antonelli,Mercedes,48.0,7,0
+9,Spanish Grand Prix,Spain,Alexander Albon,Williams,42.0,8,0
+9,Spanish Grand Prix,Spain,Isack Hadjar,RB F1 Team,21.0,9,0
+9,Spanish Grand Prix,Spain,Esteban Ocon,Haas F1 Team,20.0,10,0
+9,Spanish Grand Prix,Spain,Nico Hülkenberg,Sauber,16.0,11,0
+9,Spanish Grand Prix,Spain,Lance Stroll,Aston Martin,14.0,12,0
+9,Spanish Grand Prix,Spain,Carlos Sainz,Williams,12.0,13,0
+9,Spanish Grand Prix,Spain,Pierre Gasly,Alpine F1 Team,11.0,14,0
+9,Spanish Grand Prix,Spain,Yuki Tsunoda,RB F1 Team,10.0,15,0
+9,Spanish Grand Prix,Spain,Oliver Bearman,Haas F1 Team,6.0,16,0
+9,Spanish Grand Prix,Spain,Liam Lawson,Red Bull,4.0,17,0
+9,Spanish Grand Prix,Spain,Fernando Alonso,Aston Martin,2.0,18,0
+9,Spanish Grand Prix,Spain,Gabriel Bortoleto,Sauber,0.0,19,0
+9,Spanish Grand Prix,Spain,Jack Doohan,Alpine F1 Team,0.0,20,0
+9,Spanish Grand Prix,Spain,Franco Colapinto,Alpine F1 Team,0.0,21,0
+10,Canadian Grand Prix,Canada,Oscar Piastri,McLaren,198.0,1,5
+10,Canadian Grand Prix,Canada,Lando Norris,McLaren,176.0,2,2
+10,Canadian Grand Prix,Canada,Max Verstappen,Red Bull,155.0,3,2
+10,Canadian Grand Prix,Canada,George Russell,Mercedes,136.0,4,1
+10,Canadian Grand Prix,Canada,Charles Leclerc,Ferrari,104.0,5,0
+10,Canadian Grand Prix,Canada,Lewis Hamilton,Ferrari,79.0,6,0
+10,Canadian Grand Prix,Canada,Andrea Kimi Antonelli,Mercedes,63.0,7,0
+10,Canadian Grand Prix,Canada,Alexander Albon,Williams,42.0,8,0
+10,Canadian Grand Prix,Canada,Esteban Ocon,Haas F1 Team,22.0,9,0
+10,Canadian Grand Prix,Canada,Isack Hadjar,RB F1 Team,21.0,10,0
+10,Canadian Grand Prix,Canada,Nico Hülkenberg,Sauber,20.0,11,0
+10,Canadian Grand Prix,Canada,Lance Stroll,Aston Martin,14.0,12,0
+10,Canadian Grand Prix,Canada,Carlos Sainz,Williams,13.0,13,0
+10,Canadian Grand Prix,Canada,Pierre Gasly,Alpine F1 Team,11.0,14,0
+10,Canadian Grand Prix,Canada,Yuki Tsunoda,RB F1 Team,10.0,15,0
+10,Canadian Grand Prix,Canada,Fernando Alonso,Aston Martin,8.0,16,0
+10,Canadian Grand Prix,Canada,Oliver Bearman,Haas F1 Team,6.0,17,0
+10,Canadian Grand Prix,Canada,Liam Lawson,Red Bull,4.0,18,0
+10,Canadian Grand Prix,Canada,Gabriel Bortoleto,Sauber,0.0,19,0
+10,Canadian Grand Prix,Canada,Franco Colapinto,Alpine F1 Team,0.0,20,0
+10,Canadian Grand Prix,Canada,Jack Doohan,Alpine F1 Team,0.0,21,0
+11,Austrian Grand Prix,Austria,Oscar Piastri,McLaren,216.0,1,5
+11,Austrian Grand Prix,Austria,Lando Norris,McLaren,201.0,2,3
+11,Austrian Grand Prix,Austria,Max Verstappen,Red Bull,155.0,3,2
+11,Austrian Grand Prix,Austria,George Russell,Mercedes,146.0,4,1
+11,Austrian Grand Prix,Austria,Charles Leclerc,Ferrari,119.0,5,0
+11,Austrian Grand Prix,Austria,Lewis Hamilton,Ferrari,91.0,6,0
+11,Austrian Grand Prix,Austria,Andrea Kimi Antonelli,Mercedes,63.0,7,0
+11,Austrian Grand Prix,Austria,Alexander Albon,Williams,42.0,8,0
+11,Austrian Grand Prix,Austria,Esteban Ocon,Haas F1 Team,23.0,9,0
+11,Austrian Grand Prix,Austria,Nico Hülkenberg,Sauber,22.0,10,0
+11,Austrian Grand Prix,Austria,Isack Hadjar,RB F1 Team,21.0,11,0
+11,Austrian Grand Prix,Austria,Lance Stroll,Aston Martin,14.0,12,0
+11,Austrian Grand Prix,Austria,Fernando Alonso,Aston Martin,14.0,13,0
+11,Austrian Grand Prix,Austria,Carlos Sainz,Williams,13.0,14,0
+11,Austrian Grand Prix,Austria,Liam Lawson,Red Bull,12.0,15,0
+11,Austrian Grand Prix,Austria,Pierre Gasly,Alpine F1 Team,11.0,16,0
+11,Austrian Grand Prix,Austria,Yuki Tsunoda,RB F1 Team,10.0,17,0
+11,Austrian Grand Prix,Austria,Oliver Bearman,Haas F1 Team,6.0,18,0
+11,Austrian Grand Prix,Austria,Gabriel Bortoleto,Sauber,4.0,19,0
+11,Austrian Grand Prix,Austria,Franco Colapinto,Alpine F1 Team,0.0,20,0
+11,Austrian Grand Prix,Austria,Jack Doohan,Alpine F1 Team,0.0,21,0
+12,British Grand Prix,UK,Oscar Piastri,McLaren,234.0,1,5
+12,British Grand Prix,UK,Lando Norris,McLaren,226.0,2,4
+12,British Grand Prix,UK,Max Verstappen,Red Bull,165.0,3,2
+12,British Grand Prix,UK,George Russell,Mercedes,147.0,4,1
+12,British Grand Prix,UK,Charles Leclerc,Ferrari,119.0,5,0
+12,British Grand Prix,UK,Lewis Hamilton,Ferrari,103.0,6,0
+12,British Grand Prix,UK,Andrea Kimi Antonelli,Mercedes,63.0,7,0
+12,British Grand Prix,UK,Alexander Albon,Williams,46.0,8,0
+12,British Grand Prix,UK,Nico Hülkenberg,Sauber,37.0,9,0
+12,British Grand Prix,UK,Esteban Ocon,Haas F1 Team,23.0,10,0
+12,British Grand Prix,UK,Isack Hadjar,RB F1 Team,21.0,11,0
+12,British Grand Prix,UK,Lance Stroll,Aston Martin,20.0,12,0
+12,British Grand Prix,UK,Pierre Gasly,Alpine F1 Team,19.0,13,0
+12,British Grand Prix,UK,Fernando Alonso,Aston Martin,16.0,14,0
+12,British Grand Prix,UK,Carlos Sainz,Williams,13.0,15,0
+12,British Grand Prix,UK,Liam Lawson,Red Bull,12.0,16,0
+12,British Grand Prix,UK,Yuki Tsunoda,RB F1 Team,10.0,17,0
+12,British Grand Prix,UK,Oliver Bearman,Haas F1 Team,6.0,18,0
+12,British Grand Prix,UK,Gabriel Bortoleto,Sauber,4.0,19,0
+12,British Grand Prix,UK,Franco Colapinto,Alpine F1 Team,0.0,20,0
+12,British Grand Prix,UK,Jack Doohan,Alpine F1 Team,0.0,21,0
+13,Belgian Grand Prix,Belgium,Oscar Piastri,McLaren,266.0,1,6
+13,Belgian Grand Prix,Belgium,Lando Norris,McLaren,250.0,2,4
+13,Belgian Grand Prix,Belgium,Max Verstappen,Red Bull,185.0,3,2
+13,Belgian Grand Prix,Belgium,George Russell,Mercedes,157.0,4,1
+13,Belgian Grand Prix,Belgium,Charles Leclerc,Ferrari,139.0,5,0
+13,Belgian Grand Prix,Belgium,Lewis Hamilton,Ferrari,109.0,6,0
+13,Belgian Grand Prix,Belgium,Andrea Kimi Antonelli,Mercedes,63.0,7,0
+13,Belgian Grand Prix,Belgium,Alexander Albon,Williams,54.0,8,0
+13,Belgian Grand Prix,Belgium,Nico Hülkenberg,Sauber,37.0,9,0
+13,Belgian Grand Prix,Belgium,Esteban Ocon,Haas F1 Team,27.0,10,0
+13,Belgian Grand Prix,Belgium,Isack Hadjar,RB F1 Team,22.0,11,0
+13,Belgian Grand Prix,Belgium,Pierre Gasly,Alpine F1 Team,20.0,12,0
+13,Belgian Grand Prix,Belgium,Lance Stroll,Aston Martin,20.0,13,0
+13,Belgian Grand Prix,Belgium,Liam Lawson,Red Bull,16.0,14,0
+13,Belgian Grand Prix,Belgium,Fernando Alonso,Aston Martin,16.0,15,0
+13,Belgian Grand Prix,Belgium,Carlos Sainz,Williams,16.0,16,0
+13,Belgian Grand Prix,Belgium,Yuki Tsunoda,RB F1 Team,10.0,17,0
+13,Belgian Grand Prix,Belgium,Oliver Bearman,Haas F1 Team,8.0,18,0
+13,Belgian Grand Prix,Belgium,Gabriel Bortoleto,Sauber,6.0,19,0
+13,Belgian Grand Prix,Belgium,Franco Colapinto,Alpine F1 Team,0.0,20,0
+13,Belgian Grand Prix,Belgium,Jack Doohan,Alpine F1 Team,0.0,21,0
+14,Hungarian Grand Prix,Hungary,Oscar Piastri,McLaren,284.0,1,6
+14,Hungarian Grand Prix,Hungary,Lando Norris,McLaren,275.0,2,5
+14,Hungarian Grand Prix,Hungary,Max Verstappen,Red Bull,187.0,3,2
+14,Hungarian Grand Prix,Hungary,George Russell,Mercedes,172.0,4,1
+14,Hungarian Grand Prix,Hungary,Charles Leclerc,Ferrari,151.0,5,0
+14,Hungarian Grand Prix,Hungary,Lewis Hamilton,Ferrari,109.0,6,0
+14,Hungarian Grand Prix,Hungary,Andrea Kimi Antonelli,Mercedes,64.0,7,0
+14,Hungarian Grand Prix,Hungary,Alexander Albon,Williams,54.0,8,0
+14,Hungarian Grand Prix,Hungary,Nico Hülkenberg,Sauber,37.0,9,0
+14,Hungarian Grand Prix,Hungary,Esteban Ocon,Haas F1 Team,27.0,10,0
+14,Hungarian Grand Prix,Hungary,Fernando Alonso,Aston Martin,26.0,11,0
+14,Hungarian Grand Prix,Hungary,Lance Stroll,Aston Martin,26.0,12,0
+14,Hungarian Grand Prix,Hungary,Isack Hadjar,RB F1 Team,22.0,13,0
+14,Hungarian Grand Prix,Hungary,Pierre Gasly,Alpine F1 Team,20.0,14,0
+14,Hungarian Grand Prix,Hungary,Liam Lawson,Red Bull,20.0,15,0
+14,Hungarian Grand Prix,Hungary,Carlos Sainz,Williams,16.0,16,0
+14,Hungarian Grand Prix,Hungary,Gabriel Bortoleto,Sauber,14.0,17,0
+14,Hungarian Grand Prix,Hungary,Yuki Tsunoda,RB F1 Team,10.0,18,0
+14,Hungarian Grand Prix,Hungary,Oliver Bearman,Haas F1 Team,8.0,19,0
+14,Hungarian Grand Prix,Hungary,Franco Colapinto,Alpine F1 Team,0.0,20,0
+14,Hungarian Grand Prix,Hungary,Jack Doohan,Alpine F1 Team,0.0,21,0
+15,Dutch Grand Prix,Netherlands,Oscar Piastri,McLaren,309.0,1,7
+15,Dutch Grand Prix,Netherlands,Lando Norris,McLaren,275.0,2,5
+15,Dutch Grand Prix,Netherlands,Max Verstappen,Red Bull,205.0,3,2
+15,Dutch Grand Prix,Netherlands,George Russell,Mercedes,184.0,4,1
+15,Dutch Grand Prix,Netherlands,Charles Leclerc,Ferrari,151.0,5,0
+15,Dutch Grand Prix,Netherlands,Lewis Hamilton,Ferrari,109.0,6,0
+15,Dutch Grand Prix,Netherlands,Andrea Kimi Antonelli,Mercedes,64.0,7,0
+15,Dutch Grand Prix,Netherlands,Alexander Albon,Williams,64.0,8,0
+15,Dutch Grand Prix,Netherlands,Nico Hülkenberg,Sauber,37.0,9,0
+15,Dutch Grand Prix,Netherlands,Isack Hadjar,RB F1 Team,37.0,10,0
+15,Dutch Grand Prix,Netherlands,Lance Stroll,Aston Martin,32.0,11,0
+15,Dutch Grand Prix,Netherlands,Fernando Alonso,Aston Martin,30.0,12,0
+15,Dutch Grand Prix,Netherlands,Esteban Ocon,Haas F1 Team,28.0,13,0
+15,Dutch Grand Prix,Netherlands,Pierre Gasly,Alpine F1 Team,20.0,14,0
+15,Dutch Grand Prix,Netherlands,Liam Lawson,Red Bull,20.0,15,0
+15,Dutch Grand Prix,Netherlands,Oliver Bearman,Haas F1 Team,16.0,16,0
+15,Dutch Grand Prix,Netherlands,Carlos Sainz,Williams,16.0,17,0
+15,Dutch Grand Prix,Netherlands,Gabriel Bortoleto,Sauber,14.0,18,0
+15,Dutch Grand Prix,Netherlands,Yuki Tsunoda,RB F1 Team,12.0,19,0
+15,Dutch Grand Prix,Netherlands,Franco Colapinto,Alpine F1 Team,0.0,20,0
+15,Dutch Grand Prix,Netherlands,Jack Doohan,Alpine F1 Team,0.0,21,0
+16,Italian Grand Prix,Italy,Oscar Piastri,McLaren,324.0,1,7
+16,Italian Grand Prix,Italy,Lando Norris,McLaren,293.0,2,5
+16,Italian Grand Prix,Italy,Max Verstappen,Red Bull,230.0,3,3
+16,Italian Grand Prix,Italy,George Russell,Mercedes,194.0,4,1
+16,Italian Grand Prix,Italy,Charles Leclerc,Ferrari,163.0,5,0
+16,Italian Grand Prix,Italy,Lewis Hamilton,Ferrari,117.0,6,0
+16,Italian Grand Prix,Italy,Alexander Albon,Williams,70.0,7,0
+16,Italian Grand Prix,Italy,Andrea Kimi Antonelli,Mercedes,66.0,8,0
+16,Italian Grand Prix,Italy,Isack Hadjar,RB F1 Team,38.0,9,0
+16,Italian Grand Prix,Italy,Nico Hülkenberg,Sauber,37.0,10,0
+16,Italian Grand Prix,Italy,Lance Stroll,Aston Martin,32.0,11,0
+16,Italian Grand Prix,Italy,Fernando Alonso,Aston Martin,30.0,12,0
+16,Italian Grand Prix,Italy,Esteban Ocon,Haas F1 Team,28.0,13,0
+16,Italian Grand Prix,Italy,Pierre Gasly,Alpine F1 Team,20.0,14,0
+16,Italian Grand Prix,Italy,Liam Lawson,Red Bull,20.0,15,0
+16,Italian Grand Prix,Italy,Gabriel Bortoleto,Sauber,18.0,16,0
+16,Italian Grand Prix,Italy,Oliver Bearman,Haas F1 Team,16.0,17,0
+16,Italian Grand Prix,Italy,Carlos Sainz,Williams,16.0,18,0
+16,Italian Grand Prix,Italy,Yuki Tsunoda,RB F1 Team,12.0,19,0
+16,Italian Grand Prix,Italy,Franco Colapinto,Alpine F1 Team,0.0,20,0
+16,Italian Grand Prix,Italy,Jack Doohan,Alpine F1 Team,0.0,21,0
+17,Azerbaijan Grand Prix,Azerbaijan,Oscar Piastri,McLaren,324.0,1,7
+17,Azerbaijan Grand Prix,Azerbaijan,Lando Norris,McLaren,299.0,2,5
+17,Azerbaijan Grand Prix,Azerbaijan,Max Verstappen,Red Bull,255.0,3,4
+17,Azerbaijan Grand Prix,Azerbaijan,George Russell,Mercedes,212.0,4,1
+17,Azerbaijan Grand Prix,Azerbaijan,Charles Leclerc,Ferrari,165.0,5,0
+17,Azerbaijan Grand Prix,Azerbaijan,Lewis Hamilton,Ferrari,121.0,6,0
+17,Azerbaijan Grand Prix,Azerbaijan,Andrea Kimi Antonelli,Mercedes,78.0,7,0
+17,Azerbaijan Grand Prix,Azerbaijan,Alexander Albon,Williams,70.0,8,0
+17,Azerbaijan Grand Prix,Azerbaijan,Isack Hadjar,RB F1 Team,39.0,9,0
+17,Azerbaijan Grand Prix,Azerbaijan,Nico Hülkenberg,Sauber,37.0,10,0
+17,Azerbaijan Grand Prix,Azerbaijan,Lance Stroll,Aston Martin,32.0,11,0
+17,Azerbaijan Grand Prix,Azerbaijan,Carlos Sainz,Williams,31.0,12,0
+17,Azerbaijan Grand Prix,Azerbaijan,Liam Lawson,Red Bull,30.0,13,0
+17,Azerbaijan Grand Prix,Azerbaijan,Fernando Alonso,Aston Martin,30.0,14,0
+17,Azerbaijan Grand Prix,Azerbaijan,Esteban Ocon,Haas F1 Team,28.0,15,0
+17,Azerbaijan Grand Prix,Azerbaijan,Pierre Gasly,Alpine F1 Team,20.0,16,0
+17,Azerbaijan Grand Prix,Azerbaijan,Yuki Tsunoda,RB F1 Team,20.0,17,0
+17,Azerbaijan Grand Prix,Azerbaijan,Gabriel Bortoleto,Sauber,18.0,18,0
+17,Azerbaijan Grand Prix,Azerbaijan,Oliver Bearman,Haas F1 Team,16.0,19,0
+17,Azerbaijan Grand Prix,Azerbaijan,Franco Colapinto,Alpine F1 Team,0.0,20,0
+17,Azerbaijan Grand Prix,Azerbaijan,Jack Doohan,Alpine F1 Team,0.0,21,0
+18,Singapore Grand Prix,Singapore,Oscar Piastri,McLaren,336.0,1,7
+18,Singapore Grand Prix,Singapore,Lando Norris,McLaren,314.0,2,5
+18,Singapore Grand Prix,Singapore,Max Verstappen,Red Bull,273.0,3,4
+18,Singapore Grand Prix,Singapore,George Russell,Mercedes,237.0,4,2
+18,Singapore Grand Prix,Singapore,Charles Leclerc,Ferrari,173.0,5,0
+18,Singapore Grand Prix,Singapore,Lewis Hamilton,Ferrari,125.0,6,0
+18,Singapore Grand Prix,Singapore,Andrea Kimi Antonelli,Mercedes,88.0,7,0
+18,Singapore Grand Prix,Singapore,Alexander Albon,Williams,70.0,8,0
+18,Singapore Grand Prix,Singapore,Isack Hadjar,RB F1 Team,39.0,9,0
+18,Singapore Grand Prix,Singapore,Nico Hülkenberg,Sauber,37.0,10,0
+18,Singapore Grand Prix,Singapore,Fernando Alonso,Aston Martin,36.0,11,0
+18,Singapore Grand Prix,Singapore,Carlos Sainz,Williams,32.0,12,0
+18,Singapore Grand Prix,Singapore,Lance Stroll,Aston Martin,32.0,13,0
+18,Singapore Grand Prix,Singapore,Liam Lawson,Red Bull,30.0,14,0
+18,Singapore Grand Prix,Singapore,Esteban Ocon,Haas F1 Team,28.0,15,0
+18,Singapore Grand Prix,Singapore,Pierre Gasly,Alpine F1 Team,20.0,16,0
+18,Singapore Grand Prix,Singapore,Yuki Tsunoda,RB F1 Team,20.0,17,0
+18,Singapore Grand Prix,Singapore,Gabriel Bortoleto,Sauber,18.0,18,0
+18,Singapore Grand Prix,Singapore,Oliver Bearman,Haas F1 Team,18.0,19,0
+18,Singapore Grand Prix,Singapore,Franco Colapinto,Alpine F1 Team,0.0,20,0
+18,Singapore Grand Prix,Singapore,Jack Doohan,Alpine F1 Team,0.0,21,0
+19,United States Grand Prix,USA,Oscar Piastri,McLaren,346.0,1,7
+19,United States Grand Prix,USA,Lando Norris,McLaren,332.0,2,5
+19,United States Grand Prix,USA,Max Verstappen,Red Bull,306.0,3,5
+19,United States Grand Prix,USA,George Russell,Mercedes,252.0,4,2
+19,United States Grand Prix,USA,Charles Leclerc,Ferrari,192.0,5,0
+19,United States Grand Prix,USA,Lewis Hamilton,Ferrari,142.0,6,0
+19,United States Grand Prix,USA,Andrea Kimi Antonelli,Mercedes,89.0,7,0
+19,United States Grand Prix,USA,Alexander Albon,Williams,73.0,8,0
+19,United States Grand Prix,USA,Nico Hülkenberg,Sauber,41.0,9,0
+19,United States Grand Prix,USA,Isack Hadjar,RB F1 Team,39.0,10,0
+19,United States Grand Prix,USA,Carlos Sainz,Williams,38.0,11,0
+19,United States Grand Prix,USA,Fernando Alonso,Aston Martin,37.0,12,0
+19,United States Grand Prix,USA,Lance Stroll,Aston Martin,32.0,13,0
+19,United States Grand Prix,USA,Liam Lawson,Red Bull,30.0,14,0
+19,United States Grand Prix,USA,Esteban Ocon,Haas F1 Team,28.0,15,0
+19,United States Grand Prix,USA,Yuki Tsunoda,RB F1 Team,28.0,16,0
+19,United States Grand Prix,USA,Pierre Gasly,Alpine F1 Team,20.0,17,0
+19,United States Grand Prix,USA,Oliver Bearman,Haas F1 Team,20.0,18,0
+19,United States Grand Prix,USA,Gabriel Bortoleto,Sauber,18.0,19,0
+19,United States Grand Prix,USA,Franco Colapinto,Alpine F1 Team,0.0,20,0
+19,United States Grand Prix,USA,Jack Doohan,Alpine F1 Team,0.0,21,0
+20,Mexico City Grand Prix,Mexico,Lando Norris,McLaren,357.0,1,6
+20,Mexico City Grand Prix,Mexico,Oscar Piastri,McLaren,356.0,2,7
+20,Mexico City Grand Prix,Mexico,Max Verstappen,Red Bull,321.0,3,5
+20,Mexico City Grand Prix,Mexico,George Russell,Mercedes,258.0,4,2
+20,Mexico City Grand Prix,Mexico,Charles Leclerc,Ferrari,210.0,5,0
+20,Mexico City Grand Prix,Mexico,Lewis Hamilton,Ferrari,146.0,6,0
+20,Mexico City Grand Prix,Mexico,Andrea Kimi Antonelli,Mercedes,97.0,7,0
+20,Mexico City Grand Prix,Mexico,Alexander Albon,Williams,73.0,8,0
+20,Mexico City Grand Prix,Mexico,Nico Hülkenberg,Sauber,41.0,9,0
+20,Mexico City Grand Prix,Mexico,Isack Hadjar,RB F1 Team,39.0,10,0
+20,Mexico City Grand Prix,Mexico,Carlos Sainz,Williams,38.0,11,0
+20,Mexico City Grand Prix,Mexico,Fernando Alonso,Aston Martin,37.0,12,0
+20,Mexico City Grand Prix,Mexico,Oliver Bearman,Haas F1 Team,32.0,13,0
+20,Mexico City Grand Prix,Mexico,Lance Stroll,Aston Martin,32.0,14,0
+20,Mexico City Grand Prix,Mexico,Liam Lawson,Red Bull,30.0,15,0
+20,Mexico City Grand Prix,Mexico,Esteban Ocon,Haas F1 Team,30.0,16,0
+20,Mexico City Grand Prix,Mexico,Yuki Tsunoda,RB F1 Team,28.0,17,0
+20,Mexico City Grand Prix,Mexico,Pierre Gasly,Alpine F1 Team,20.0,18,0
+20,Mexico City Grand Prix,Mexico,Gabriel Bortoleto,Sauber,19.0,19,0
+20,Mexico City Grand Prix,Mexico,Franco Colapinto,Alpine F1 Team,0.0,20,0
+20,Mexico City Grand Prix,Mexico,Jack Doohan,Alpine F1 Team,0.0,21,0
+21,São Paulo Grand Prix,Brazil,Lando Norris,McLaren,390.0,1,7
+21,São Paulo Grand Prix,Brazil,Oscar Piastri,McLaren,366.0,2,7
+21,São Paulo Grand Prix,Brazil,Max Verstappen,Red Bull,341.0,3,5
+21,São Paulo Grand Prix,Brazil,George Russell,Mercedes,276.0,4,2
+21,São Paulo Grand Prix,Brazil,Charles Leclerc,Ferrari,214.0,5,0
+21,São Paulo Grand Prix,Brazil,Lewis Hamilton,Ferrari,148.0,6,0
+21,São Paulo Grand Prix,Brazil,Andrea Kimi Antonelli,Mercedes,122.0,7,0
+21,São Paulo Grand Prix,Brazil,Alexander Albon,Williams,73.0,8,0
+21,São Paulo Grand Prix,Brazil,Nico Hülkenberg,Sauber,43.0,9,0
+21,São Paulo Grand Prix,Brazil,Isack Hadjar,RB F1 Team,43.0,10,0
+21,São Paulo Grand Prix,Brazil,Oliver Bearman,Haas F1 Team,40.0,11,0
+21,São Paulo Grand Prix,Brazil,Fernando Alonso,Aston Martin,40.0,12,0
+21,São Paulo Grand Prix,Brazil,Carlos Sainz,Williams,38.0,13,0
+21,São Paulo Grand Prix,Brazil,Liam Lawson,Red Bull,36.0,14,0
+21,São Paulo Grand Prix,Brazil,Lance Stroll,Aston Martin,32.0,15,0
+21,São Paulo Grand Prix,Brazil,Esteban Ocon,Haas F1 Team,30.0,16,0
+21,São Paulo Grand Prix,Brazil,Yuki Tsunoda,RB F1 Team,28.0,17,0
+21,São Paulo Grand Prix,Brazil,Pierre Gasly,Alpine F1 Team,22.0,18,0
+21,São Paulo Grand Prix,Brazil,Gabriel Bortoleto,Sauber,19.0,19,0
+21,São Paulo Grand Prix,Brazil,Franco Colapinto,Alpine F1 Team,0.0,20,0
+21,São Paulo Grand Prix,Brazil,Jack Doohan,Alpine F1 Team,0.0,21,0
+22,Las Vegas Grand Prix,USA,Lando Norris,McLaren,390.0,1,7
+22,Las Vegas Grand Prix,USA,Oscar Piastri,McLaren,366.0,2,7
+22,Las Vegas Grand Prix,USA,Max Verstappen,Red Bull,366.0,3,6
+22,Las Vegas Grand Prix,USA,George Russell,Mercedes,294.0,4,2
+22,Las Vegas Grand Prix,USA,Charles Leclerc,Ferrari,226.0,5,0
+22,Las Vegas Grand Prix,USA,Lewis Hamilton,Ferrari,152.0,6,0
+22,Las Vegas Grand Prix,USA,Andrea Kimi Antonelli,Mercedes,137.0,7,0
+22,Las Vegas Grand Prix,USA,Alexander Albon,Williams,73.0,8,0
+22,Las Vegas Grand Prix,USA,Isack Hadjar,RB F1 Team,51.0,9,0
+22,Las Vegas Grand Prix,USA,Nico Hülkenberg,Sauber,49.0,10,0
+22,Las Vegas Grand Prix,USA,Carlos Sainz,Williams,48.0,11,0
+22,Las Vegas Grand Prix,USA,Oliver Bearman,Haas F1 Team,41.0,12,0
+22,Las Vegas Grand Prix,USA,Fernando Alonso,Aston Martin,40.0,13,0
+22,Las Vegas Grand Prix,USA,Liam Lawson,Red Bull,36.0,14,0
+22,Las Vegas Grand Prix,USA,Esteban Ocon,Haas F1 Team,32.0,15,0
+22,Las Vegas Grand Prix,USA,Lance Stroll,Aston Martin,32.0,16,0
+22,Las Vegas Grand Prix,USA,Yuki Tsunoda,RB F1 Team,28.0,17,0
+22,Las Vegas Grand Prix,USA,Pierre Gasly,Alpine F1 Team,22.0,18,0
+22,Las Vegas Grand Prix,USA,Gabriel Bortoleto,Sauber,19.0,19,0
+22,Las Vegas Grand Prix,USA,Franco Colapinto,Alpine F1 Team,0.0,20,0
+22,Las Vegas Grand Prix,USA,Jack Doohan,Alpine F1 Team,0.0,21,0
+23,Qatar Grand Prix,Qatar,Lando Norris,McLaren,408.0,1,7
+23,Qatar Grand Prix,Qatar,Max Verstappen,Red Bull,396.0,2,7
+23,Qatar Grand Prix,Qatar,Oscar Piastri,McLaren,392.0,3,7
+23,Qatar Grand Prix,Qatar,George Russell,Mercedes,309.0,4,2
+23,Qatar Grand Prix,Qatar,Charles Leclerc,Ferrari,230.0,5,0
+23,Qatar Grand Prix,Qatar,Lewis Hamilton,Ferrari,152.0,6,0
+23,Qatar Grand Prix,Qatar,Andrea Kimi Antonelli,Mercedes,150.0,7,0
+23,Qatar Grand Prix,Qatar,Alexander Albon,Williams,73.0,8,0
+23,Qatar Grand Prix,Qatar,Carlos Sainz,Williams,64.0,9,0
+23,Qatar Grand Prix,Qatar,Isack Hadjar,RB F1 Team,51.0,10,0
+23,Qatar Grand Prix,Qatar,Nico Hülkenberg,Sauber,49.0,11,0
+23,Qatar Grand Prix,Qatar,Fernando Alonso,Aston Martin,48.0,12,0
+23,Qatar Grand Prix,Qatar,Oliver Bearman,Haas F1 Team,41.0,13,0
+23,Qatar Grand Prix,Qatar,Liam Lawson,Red Bull,38.0,14,0
+23,Qatar Grand Prix,Qatar,Yuki Tsunoda,RB F1 Team,33.0,15,0
+23,Qatar Grand Prix,Qatar,Esteban Ocon,Haas F1 Team,32.0,16,0
+23,Qatar Grand Prix,Qatar,Lance Stroll,Aston Martin,32.0,17,0
+23,Qatar Grand Prix,Qatar,Pierre Gasly,Alpine F1 Team,22.0,18,0
+23,Qatar Grand Prix,Qatar,Gabriel Bortoleto,Sauber,19.0,19,0
+23,Qatar Grand Prix,Qatar,Franco Colapinto,Alpine F1 Team,0.0,20,0
+23,Qatar Grand Prix,Qatar,Jack Doohan,Alpine F1 Team,0.0,21,0
+24,Abu Dhabi Grand Prix,UAE,Lando Norris,McLaren,423.0,1,7
+24,Abu Dhabi Grand Prix,UAE,Max Verstappen,Red Bull,421.0,2,8
+24,Abu Dhabi Grand Prix,UAE,Oscar Piastri,McLaren,410.0,3,7
+24,Abu Dhabi Grand Prix,UAE,George Russell,Mercedes,319.0,4,2
+24,Abu Dhabi Grand Prix,UAE,Charles Leclerc,Ferrari,242.0,5,0
+24,Abu Dhabi Grand Prix,UAE,Lewis Hamilton,Ferrari,156.0,6,0
+24,Abu Dhabi Grand Prix,UAE,Andrea Kimi Antonelli,Mercedes,150.0,7,0
+24,Abu Dhabi Grand Prix,UAE,Alexander Albon,Williams,73.0,8,0
+24,Abu Dhabi Grand Prix,UAE,Carlos Sainz,Williams,64.0,9,0
+24,Abu Dhabi Grand Prix,UAE,Fernando Alonso,Aston Martin,56.0,10,0
+24,Abu Dhabi Grand Prix,UAE,Nico Hülkenberg,Sauber,51.0,11,0
+24,Abu Dhabi Grand Prix,UAE,Isack Hadjar,RB F1 Team,51.0,12,0
+24,Abu Dhabi Grand Prix,UAE,Oliver Bearman,Haas F1 Team,41.0,13,0
+24,Abu Dhabi Grand Prix,UAE,Liam Lawson,Red Bull,38.0,14,0
+24,Abu Dhabi Grand Prix,UAE,Esteban Ocon,Haas F1 Team,38.0,15,0
+24,Abu Dhabi Grand Prix,UAE,Lance Stroll,Aston Martin,33.0,16,0
+24,Abu Dhabi Grand Prix,UAE,Yuki Tsunoda,RB F1 Team,33.0,17,0
+24,Abu Dhabi Grand Prix,UAE,Pierre Gasly,Alpine F1 Team,22.0,18,0
+24,Abu Dhabi Grand Prix,UAE,Gabriel Bortoleto,Sauber,19.0,19,0
+24,Abu Dhabi Grand Prix,UAE,Franco Colapinto,Alpine F1 Team,0.0,20,0
+24,Abu Dhabi Grand Prix,UAE,Jack Doohan,Alpine F1 Team,0.0,21,0

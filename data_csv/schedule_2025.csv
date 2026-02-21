@@ -1,0 +1,25 @@
+round,name,circuit,country,date,has_sprint
+1,Australian Grand Prix,Albert Park Grand Prix Circuit,Australia,2025-03-16,False
+2,Chinese Grand Prix,Shanghai International Circuit,China,2025-03-23,True
+3,Japanese Grand Prix,Suzuka Circuit,Japan,2025-04-06,False
+4,Bahrain Grand Prix,Bahrain International Circuit,Bahrain,2025-04-13,False
+5,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Saudi Arabia,2025-04-20,False
+6,Miami Grand Prix,Miami International Autodrome,USA,2025-05-04,True
+7,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Italy,2025-05-18,False
+8,Monaco Grand Prix,Circuit de Monaco,Monaco,2025-05-25,False
+9,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Spain,2025-06-01,False
+10,Canadian Grand Prix,Circuit Gilles Villeneuve,Canada,2025-06-15,False
+11,Austrian Grand Prix,Red Bull Ring,Austria,2025-06-29,False
+12,British Grand Prix,Silverstone Circuit,UK,2025-07-06,False
+13,Belgian Grand Prix,Circuit de Spa-Francorchamps,Belgium,2025-07-27,True
+14,Hungarian Grand Prix,Hungaroring,Hungary,2025-08-03,False
+15,Dutch Grand Prix,Circuit Park Zandvoort,Netherlands,2025-08-31,False
+16,Italian Grand Prix,Autodromo Nazionale di Monza,Italy,2025-09-07,False
+17,Azerbaijan Grand Prix,Baku City Circuit,Azerbaijan,2025-09-21,False
+18,Singapore Grand Prix,Marina Bay Street Circuit,Singapore,2025-10-05,False
+19,United States Grand Prix,Circuit of the Americas,USA,2025-10-19,True
+20,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,Mexico,2025-10-26,False
+21,São Paulo Grand Prix,Autódromo José Carlos Pace,Brazil,2025-11-09,True
+22,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,USA,2025-11-23,False
+23,Qatar Grand Prix,Losail International Circuit,Qatar,2025-11-30,True
+24,Abu Dhabi Grand Prix,Yas Marina Circuit,UAE,2025-12-07,False
